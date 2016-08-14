@@ -1,0 +1,6 @@
+#EXTINF:-1 " tvg-name="CCTV-1综合[HD]" group-title="央视频道",Channel 1
+http://113.247.251.13:5001/nn_live.ts?id=CCTV1HD
+#EXTINF:-1 " tvg-name="CCTV-5体育[HD]" group-title="央视频道",Channel 2
+http://111.47.108.82:8084/playlist.m3u8?channel-id=wasusyt&Contentid=4867251683694877276
+#EXTINF:-1 " tvg-name="CCTV-5+体育赛事[HD]" group-title="央视频道",Channel 3
+http://117.144.248.49/cctv5plus.m3u8?authCode=07110409322147352675&amp;stbId=006001FF0018120000060019F0D496A1&amp;Contentid=7680777599813046442&amp;mos=jbjhhzstsl&amp;livemode=1&amp;channel-id=wasusyt
